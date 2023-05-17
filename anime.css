@@ -1,0 +1,48 @@
+body{
+    font-size: 50px;
+    background-image: url("https://wallpapercave.com/wp/wp5737418.jpg");
+    background-size: cover;
+    
+    
+}
+h1{
+    background-color: pink;
+    text-align: center;
+    border-radius: 45px;
+    color: rgb(243, 6, 14);
+    font-weight: bold;
+    position: relative;
+    bottom: 35px;
+    border:2px solid white;
+    background: transparent;
+    backdrop-filter: blur(15px);
+
+}
+p{
+    position: relative;
+    right: -550px;
+    font-size: 30px;
+    color: rgb(220, 13, 13);
+     font-weight: bold;
+    background-color: red;
+    width: 100px;
+    border-radius: 45px;
+    border:2px solid white;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    
+}
+#down {
+    position: relative;
+
+    top:30px;
+}
+#down1{
+    position: relative;
+    top: 25px;
+}
+img{
+    border-radius:50%;
+    border:2px solid aqua;
+    
+}
